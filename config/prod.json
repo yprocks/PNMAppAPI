@@ -1,0 +1,4 @@
+{
+    "port":"3002",
+    "dburl":"mongodb://yash.patel:yash123!@ds163418.mlab.com:63418/pnmsdb"
+}
